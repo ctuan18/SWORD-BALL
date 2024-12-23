@@ -1,20 +1,20 @@
 # SWORD BALL
-SWORD BALLlà game được lấy cảm hứng từ Asteroids với sự nâng cấp đồ họa. Asteroids là một trò chơi điện tử acrade bắn súng đa hướng theo chủ đề không gian được thiết kế bởi Lyle Rains và Ed Logg được phát hành vào tháng 1 năm 1979 bởi Atari, Inc. Người chơi điều khiển một con tàu vũ trụ duy nhất trong trường tiểu hành tinh. Mục tiêu của trò chơi là bắn và phá hủy các tiểu hành tinh , trong khi không va chạm. Trò chơi trở nên khó khăn hơn khi số lượng tiểu hành tinh tăng lên.
+SWORD BALL là game được lấy cảm hứng từ GAME chém hoa quả với sự nâng cấp đồ họa.Game được lấy ý tưởng và tạo ra cho người chơi trên máy tính với sự mới lạ nhằm rèn luyện cách điều khiển bàn phím và cách để luyện phản xạ.
 
 ## Cách chơi
 
 - *Điều khiển*:
-  - Dùng các phím mũi tên (trái, phải, lên)
+  - Dùng các phím (trái, phải, lên,các phím chữ cái,...)
 
 - *Mục tiêu*:
-  - Bắn và phá hủy các tiểu hành tinh càng nhiều càng tốt để ghi điểm.
-  - Tránh để va chạm với các tiểu hành tinh.
+  - chém bóng sao không để bóng va chạm với nhân vật
+  - Sinh tồn với thời gian lâu nhất
 
 ## Cài đặt
 
 ### Cài đặt và Chạy
 
-1. Tải và cài đặt thư viện SFML vào IDE 
+1. Tải và cài đặt thư viện SDL vào IDE 
 2. Tải về và giải nén repo này.
 3. Biên dịch game với công cụ yêu thích của bạn (chẳng hạn như GCC hoặc Visual Studio).
 4. Chạy file thực thi để bắt đầu chơi!
