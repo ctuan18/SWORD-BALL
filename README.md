@@ -19,7 +19,7 @@ SWORD BALL là game được lấy cảm hứng từ GAME chém hoa quả với 
 3. Biên dịch game với công cụ yêu thích của bạn (chẳng hạn như GCC hoặc Visual Studio).
 4. Chạy file thực thi để bắt đầu chơi!
 
-## Cảm ơn
+## Cảm ơn.
 
 Cảm ơn bạn đã tải game ! Hãy cùng trải nghiệm trò chơi này và thử thách khả năng của bạn.
 
